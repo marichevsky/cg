@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Marichevsky",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "JetBrains Mono",
+        body: "JetBrains Mono",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -40,9 +40,9 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
+          light: "#0A1D28",
+          lightgray: "#414559",
+          gray: "#0A151B",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
           secondary: "#7b97aa",

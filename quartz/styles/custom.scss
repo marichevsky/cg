@@ -1,3 +1,46 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+hr {
+  background-color: var(--secondary);
+}
+
+.graph>.graph-outer {
+  border: 1px solid var(--secondary);
+}
+
+.darkmode {
+  display: none;
+}
+
+.graph>#global-graph-outer>#global-graph-container {
+  border: 1px solid var(--secondary);
+  background-color: var(--gray);
+  opacity: 0.9;
+}
+
+.graph>.graph-outer>#global-graph-icon {
+  color: var(--secondary);
+  opacity: 1;
+}
+
+.graph>.graph-outer>#global-graph-icon:hover {
+  background-color: #414559;
+}
+
+footer {
+  display: none;
+}
+
+a.internal {
+  background-color: transparent; 
+}
+
+a {
+  color: #56b6f8;
+}
+
+a:hover {
+  color: #3b7da8;
+}
