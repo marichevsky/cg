@@ -33,13 +33,13 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "Created by",
     },
     graph: {
       title: "Graph View",
     },
     recentNotes: {
-      title: "Recent Notes",
+      title: "Recent Files",
       seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
     },
     transcludes: {
@@ -59,7 +59,7 @@ export default {
   },
   pages: {
     rss: {
-      recentNotes: "Recent notes",
+      recentNotes: "Recent Files",
       lastFewNotes: ({ count }) => `Last ${count} notes`,
     },
     error: {

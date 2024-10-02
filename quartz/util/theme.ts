@@ -8,6 +8,20 @@ export interface ColorScheme {
   tertiary: string
   highlight: string
   textHighlight: string
+  rosewater: string
+  flamingo: string
+  pink: string
+  mauve: string
+  red: string
+  maroon: string
+  peach: string
+  yellow: string
+  green: string
+  teal: string
+  sky: string
+  sapphire: string
+  blue: string
+  lavender: string
 }
 
 interface Colors {
@@ -67,6 +81,20 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};
   --textHighlight: ${theme.colors.darkMode.textHighlight};
+  --rosewater: ${theme.colors.darkMode.rosewater};
+  --flamingo: ${theme.colors.darkMode.flamingo};
+  --pink: ${theme.colors.darkMode.pink};
+  --mauve: ${theme.colors.darkMode.mauve};
+  --red: ${theme.colors.darkMode.red};
+  --maroon: ${theme.colors.darkMode.maroon};
+  --peach: ${theme.colors.darkMode.maroon};
+  --yellow: ${theme.colors.darkMode.yellow};
+  --green: ${theme.colors.darkMode.green};
+  --teal: ${theme.colors.darkMode.teal};
+  --sky: ${theme.colors.darkMode.sky};
+  --sapphire: ${theme.colors.darkMode.sapphire};
+  --blue: ${theme.colors.darkMode.blue};
+  --lavender: ${theme.colors.darkMode.lavender};
 }
 `
 }

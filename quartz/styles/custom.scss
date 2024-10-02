@@ -3,11 +3,11 @@
 // put your custom CSS here!
 
 hr {
-  background-color: var(--secondary);
+  background-color: var(--green);
 }
 
 .graph>.graph-outer {
-  border: 1px solid var(--secondary);
+  border: 1px solid var(--green);
 }
 
 .darkmode {
@@ -15,13 +15,13 @@ hr {
 }
 
 .graph>#global-graph-outer>#global-graph-container {
-  border: 1px solid var(--secondary);
+  border: 1px solid var(--green);
   background-color: var(--gray);
   opacity: 0.9;
 }
 
 .graph>.graph-outer>#global-graph-icon {
-  color: var(--secondary);
+  color: var(--green);
   opacity: 1;
 }
 
@@ -29,9 +29,6 @@ hr {
   background-color: #414559;
 }
 
-footer {
-  display: none;
-}
 
 a.internal {
   background-color: transparent; 
@@ -44,3 +41,64 @@ a {
 a:hover {
   color: #3b7da8;
 }
+
+.content-meta {
+  color: var(--secondary); 
+}
+
+.page article p>strong {
+  color: var(--green);
+}
+
+strong {
+  color: var(--green);
+}
+
+h1 {font-size: 2rem; color: var(--green)}
+h2 {font-size: 1.5rem; font-weight: extra-bold;}
+h3 {font-size: 1.1875rem;}
+h4 {font-size: 1rem;}
+h5 {font-size: 0.875rem;}
+h6 {font-size: 0.75rem;}
+
+.page-title {
+  font-size: 1.62rem;
+  margin-bottom: -1.2rem;
+}
+
+#toc-content ul>li>a {
+  color: var(--green);
+  opacity: .35;
+  transition: opacity .5s,color .3s;
+}
+
+.search>.search-button {
+  width: 120%;
+}
+
+.search-button {
+  margin-bottom: 1rem;
+}
+
+img {
+  margin: 0rem;
+}
+
+.recent-notes>ul.recent-ul>li {
+  margin: 0rem 0;
+}
+
+.recent-notes>ul.recent-ul>li .section>.desc>h3>a {
+  font-size:1rem;
+}
+
+.recent-notes>ul.recent-ul>li .section>.meta {
+  font-size:0.8rem;
+}
+
+/* Выравнивание правого сайдбара относительно заголовка */
+.page>#quartz-body .sidebar.right {
+  padding-top: 6.5rem;
+}
+
+

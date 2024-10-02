@@ -4,6 +4,5 @@
 - [[Kinopoisk Search]]
 - [[Open Gate]]
 - [[Copilot]]
-- [[Digital Garden]]
 - [[Quartz]]
 - [[Auto Link Title]]

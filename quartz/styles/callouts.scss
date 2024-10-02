@@ -153,10 +153,10 @@
     mask-size: var(--icon-size) var(--icon-size);
     mask-position: center;
     mask-repeat: no-repeat;
-    padding: 0.2rem 0;
+    padding: 0.2rem 13;
   }
 
   .callout-title-inner {
-    font-weight: $semiBoldWeight;
+    font-weight: 600;
   }
 }
