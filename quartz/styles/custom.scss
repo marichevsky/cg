@@ -76,6 +76,15 @@ h6 {font-size: 0.75rem;}
   width: 120%;
 }
 
+@media (max-width: 800px) {
+  .search>.search-button {
+    width: 80%;
+    padding-right:4rem;
+  }
+  .search>.search-button svg {
+    padding-left: 3.5rem;
+}}
+
 .search-button {
   margin-bottom: 1rem;
 }
