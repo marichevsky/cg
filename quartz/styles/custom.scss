@@ -10,9 +10,11 @@ hr {
   border: 1px solid var(--green);
 }
 
+
+
 .darkmode {
   display: none;
-}
+} 
 
 .graph>#global-graph-outer>#global-graph-container {
   border: 1px solid var(--green);
@@ -84,6 +86,12 @@ h6 {font-size: 0.75rem;}
   .search>.search-button svg {
     padding-left: 1.5rem;
 }}
+
+@media (max-width: 800px) {
+  .graph>.graph-outer {
+    height: 180px;
+  }
+}
 
 .search-button {
   margin-bottom: 1rem;

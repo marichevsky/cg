@@ -1,0 +1,19 @@
+npx quartz build --serve - создает локальный сервер
+npx quartz sync - синхронизировать изменения
+
+
+
+
+
+
+
+
+
+
+
+/// Размер graph по высоте регулируется в файле graph.inline.ts в строке: ///
+const height = Math.max(graph.offsetHeight, window.innerWidth < 768 ? 181 : 314); 
+181 - для мобильных устройств, 314 для пк.
+
+/// Цвета точек graph редактируются в этом файле. ///
+graph.inline.ts
