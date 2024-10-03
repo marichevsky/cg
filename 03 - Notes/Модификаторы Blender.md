@@ -1,0 +1,1 @@
+**Ctrl + 1,2,3** - Subdivision Surface (подразделение по степени)

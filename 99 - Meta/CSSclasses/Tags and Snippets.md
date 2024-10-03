@@ -1,0 +1,28 @@
+---
+cssclasses:
+  - page-white
+  - page-blueprint
+  - page-manila
+  - pen-black
+  - pen-gray
+  - pen-red
+  - pen-green
+  - pen-blue
+  - pen-purple
+  - pen-white
+  - recolor-images
+  - page-grid
+  - width-600
+  - width-800
+  - width-1000
+  - width-1200
+  - width-1400
+  - wide-page
+  - wide-dataview
+  - wide-table
+  - wide-callout
+  - wide-backlinks
+  - vault-wide
+  - hide-tablename
+  - 
+---
