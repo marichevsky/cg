@@ -9,3 +9,12 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+01 - Maps of Content/
+02 - Inbox/
+03 - Notes/
+04 - Files/
+05 - Daily Notes/
+06 - Archive/
+98 - Database/
+99 - Meta/
+.smart-env
