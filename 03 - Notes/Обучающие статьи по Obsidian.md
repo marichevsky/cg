@@ -1,1 +1,0 @@
-- [[Tracking Books in Obsidian with Dataview & Book Search Plugin]]

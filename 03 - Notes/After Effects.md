@@ -1,6 +1,0 @@
-- [[Хоткеи After Effects]]
-- [[Expressions After Effects]]
-- [[Список эффектов After Effects]]
-- [[Композитинг в After Effects]]
-- [[Техники моушена в After Effects]]
-- [[Плагины After Effects]]
