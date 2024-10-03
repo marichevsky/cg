@@ -1,1 +1,0 @@
--> [[Список эффектов Substance Painter]]
