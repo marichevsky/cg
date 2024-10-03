@@ -6,3 +6,4 @@
 - [[Copilot]]
 - [[Quartz]]
 - [[Auto Link Title]]
+- [[Imgur]]
