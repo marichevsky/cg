@@ -35,4 +35,5 @@ cssclasses: []
 - [[Obsidian как замена Notion]]
 ## CG:
 - [[Композитинг в ACES в Cinema 4D 2023 + After Effects 2023]]
+- [[Словарь CG терминов]]
 

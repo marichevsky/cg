@@ -9,4 +9,4 @@ tags:
 
 ### Как пользоваться
 
-- [[How to Create Multi-Column Layouts in Obsidian]]
+- [[03 - Notes/How to Create Multi-Column Layouts in Obsidian]]

@@ -9,9 +9,9 @@
 **Ctrl + Alt + L** - Lint Current file
 **Ctrl + Shift + L** - Lint All Files in Folder
 
-### [[Templater]]
+### [[content/03 - Obsidian/Templater]]
 
-**Alt + R** - заменить темплейты через [[Templater]].
+**Alt + R** - заменить темплейты через [[content/03 - Obsidian/Templater]].
 
 ### Emoji Toolbar
 
