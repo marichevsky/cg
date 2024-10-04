@@ -144,4 +144,3 @@ You can explore more features from this [documentation section](https://efemkay
 Multi-column CSS from modular CSS layout is a great way to enhance your experience in Obsidian. This can help you to create your notes better.
 
 It can be useful, especially in cases where you want to create homepage setups or dashboard setups.
-

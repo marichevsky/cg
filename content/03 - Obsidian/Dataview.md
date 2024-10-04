@@ -39,13 +39,8 @@ author AS Author - фильтрация происходит по ключу "au
 
 ---
 ### Ссылка на источник:
-```link-bookmark
-url:https://blacksmithgu.github.io/obsidian-dataview/
-title:Dataview
-description:
-coverImg:assets/obsidian.png
-logo:assets/obsidian.png
-```
+https://blacksmithgu.github.io/obsidian-dataview/
+
 
 
 

@@ -1,2 +1,2 @@
-- [[content/03 - Obsidian/Метаданные справа от картинки]]
-- [[content/03 - Obsidian/Multi Column Layout]]
+- [[Метаданные справа от картинки]]
+- [[Multi Column Layout]]
